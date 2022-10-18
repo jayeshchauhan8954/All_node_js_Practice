@@ -1,0 +1,14 @@
+{
+  "name": "excel_my",
+  "version": "1.0.1",
+  "description": "This is my first excel project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "learn_excel"
+  ],
+  "author": "Jayesh",
+  "license": "MIT"
+}
